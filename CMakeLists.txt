@@ -27,7 +27,7 @@ target_link_libraries(tracker PRIVATE
     cudart
 )
 
-add_executable(main main.cpp)
+add_executable(main ./src/main.cpp)
 target_link_libraries(main PRIVATE tracker)
 
 set_property(TARGET main PROPERTY CXX_STANDARD 17)
