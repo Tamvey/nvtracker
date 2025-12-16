@@ -1,0 +1,3 @@
+[submodule "scripts/nanodet"]
+	path = scripts/nanodet
+	url = https://github.com/RangiLyu/nanodet.git
