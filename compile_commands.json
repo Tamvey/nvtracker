@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/media/nvidia/nvidia_tx2_files/nvtracker/build",
-  "command": "/usr/bin/aarch64-linux-gnu-g++    -g   -std=gnu++1z -o CMakeFiles/nvtracker.dir/src/main.cpp.o -c /media/nvidia/nvidia_tx2_files/nvtracker/src/main.cpp",
-  "file": "/media/nvidia/nvidia_tx2_files/nvtracker/src/main.cpp"
-}
-]
